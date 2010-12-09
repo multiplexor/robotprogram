@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="spatial_and_logical_robot_program.Form1">
+    <Position X="0.5" Y="0.5" Width="5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Delegate Name="spatial_and_logical_robot_program.Form1.SetTextCallback">
+        <TypeIdentifier>
+          <NewMemberFileName>MainForm.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>F2XABB8UkDJgA1QCAcPWgZZjAEA+EQ4AFHO4goHGAAE=</HashCode>
+      <FileName>MainForm.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="capFilter" />
+      <Field Name="graphBuilder" />
+      <Field Name="sampGrabber" />
+      <Field Name="car" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="spatial_and_logical_robot_program.Car">
+    <Position X="6.5" Y="0.5" Width="4.75" />
+    <TypeIdentifier>
+      <HashCode>AAEEAAEgABQCgAAAEAAQAEKAAACAAAgAAAAAAACAAAA=</HashCode>
+      <FileName>Car.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="car_state" />
+      <Field Name="dataTransmit" />
+      <Field Name="carMovement" />
+      <Field Name="carDrawing" />
+      <Field Name="objectRecognition" />
+      <Field Name="CoordsTransform" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="spatial_and_logical_robot_program.CarState">
+    <Position X="12.25" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAAgAIAAAABAAQAAAAAAAAJAABA=</HashCode>
+      <FileName>CarState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="spatial_and_logical_robot_program.CarMovement">
+    <Position X="15.5" Y="0.5" Width="7.25" />
+    <TypeIdentifier>
+      <HashCode>QCCyAAAAAAACAAACBAGAAAAgAQAAAAkAAiAAAAAAEAA=</HashCode>
+      <FileName>CarMovement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="spatial_and_logical_robot_program.BluetoothDataTransmit">
+    <Position X="23.5" Y="0.5" Width="7.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAIAAAAgCAAAAABQAAICgAAAAQAAAAAAAA=</HashCode>
+      <FileName>BluetoothDataTransmit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="spatial_and_logical_robot_program.Object_recognition">
+    <Position X="6.5" Y="4.75" Width="4.5" />
+    <TypeIdentifier>
+      <HashCode>AAAhABAAAAAAAABAAAAAAAAIAgAAAAAAAAAABAAhBAA=</HashCode>
+      <FileName>Object_recognition.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="spatial_and_logical_robot_program.CarDrawing">
+    <Position X="12.25" Y="5.75" Width="8.25" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAIAAAAUAAAAAAAIAMIAAAiAEAAAAAAIAAAAA=</HashCode>
+      <FileName>CarDrawing.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="spatial_and_logical_robot_program.Coordinates_transform">
+    <Position X="6.5" Y="8.5" Width="4.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAAUJAgAAAABAACEDABQAAEAKIAAAAA=</HashCode>
+      <FileName>Coordinates_transform.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="DShowNET.IGraphBuilder">
+    <Position X="6.5" Y="14" Width="5.25" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="DShowNET.IBaseFilter">
+    <Position X="12.5" Y="14" Width="3.25" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="DShowNET.ISampleGrabber">
+    <Position X="17.25" Y="14.25" Width="4.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Font Name="Tahoma" Size="8.25" />
+</ClassDiagram>
