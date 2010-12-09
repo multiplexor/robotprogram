@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="spatial_and_logical_robot_program">
+</Property><Property Name="Solution File" Value="C:\Users\Multiplexor\Documents\Visual Studio 2010\Projects\spatial_and_logical_robot_program(07.12.09 11-30)\spatial_and_logical_robot_program\spatial_and_logical_robot_program.sln">
+</Property><Property Name="Date" Value="25 апреля 2010 г.">
+</Property><Property Name="Time" Value="20:15">
+</Property></Properties><Event ErrorLevel="0" Project="spatial_and_logical_robot_program" Source="spatial_and_logical_robot_program\spatial_and_logical_robot_program.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="spatial_and_logical_robot_program" Source="spatial_and_logical_robot_program\spatial_and_logical_robot_program.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="spatial_and_logical_robot_program.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="spatial_and_logical_robot_program.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="spatial_and_logical_robot_program" Source="spatial_and_logical_robot_program\spatial_and_logical_robot_program.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

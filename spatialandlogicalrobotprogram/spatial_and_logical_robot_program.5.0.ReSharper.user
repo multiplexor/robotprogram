@@ -1,0 +1,69 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">True</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="77481F16-ED89-495C-B096-FD3DA565BE37/f:Coordinates_transform.cs" caret="975" fromTop="39" />
+      <File id="77481F16-ED89-495C-B096-FD3DA565BE37/f:MainForm.Designer.cs" caret="33386" fromTop="17" />
+      <File id="77481F16-ED89-495C-B096-FD3DA565BE37/f:route_points.cs" caret="0" fromTop="0" />
+      <File id="77481F16-ED89-495C-B096-FD3DA565BE37/f:route.cs" caret="714" fromTop="33" />
+      <File id="77481F16-ED89-495C-B096-FD3DA565BE37/f:PlaybackControlsSequence.cs" caret="99" fromTop="3" />
+      <File id="77481F16-ED89-495C-B096-FD3DA565BE37/f:Object_recognition.cs" caret="6391" fromTop="38" />
+      <File id="77481F16-ED89-495C-B096-FD3DA565BE37/f:MainForm.cs" caret="29186" fromTop="9" />
+      <File id="77481F16-ED89-495C-B096-FD3DA565BE37/f:DeviceSelector.cs" caret="6221" fromTop="38" />
+      <File id="77481F16-ED89-495C-B096-FD3DA565BE37/f:CarState.cs" caret="3548" fromTop="38" />
+      <File id="77481F16-ED89-495C-B096-FD3DA565BE37/f:CarMovement.cs" caret="24026" fromTop="38" />
+      <File id="77481F16-ED89-495C-B096-FD3DA565BE37/f:CarDrawing.cs" caret="7990" fromTop="38" />
+      <File id="77481F16-ED89-495C-B096-FD3DA565BE37/f:Car.cs" caret="10506" fromTop="38" />
+      <File id="77481F16-ED89-495C-B096-FD3DA565BE37/f:BluetoothDataTransmit.cs" caret="6824" fromTop="7" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="77481F16-ED89-495C-B096-FD3DA565BE37/f:MainForm.cs" caret="3497" fromTop="15" />
+      <File id="77481F16-ED89-495C-B096-FD3DA565BE37/f:MainForm.cs" caret="3789" fromTop="21" />
+      <File id="77481F16-ED89-495C-B096-FD3DA565BE37/f:MainForm.cs" caret="4053" fromTop="21" />
+      <File id="77481F16-ED89-495C-B096-FD3DA565BE37/f:MainForm.cs" caret="4908" fromTop="26" />
+      <File id="77481F16-ED89-495C-B096-FD3DA565BE37/f:MainForm.cs" caret="28904" fromTop="19" />
+      <File id="77481F16-ED89-495C-B096-FD3DA565BE37/f:MainForm.cs" caret="28535" fromTop="10" />
+      <File id="77481F16-ED89-495C-B096-FD3DA565BE37/f:MainForm.cs" caret="28206" fromTop="14" />
+      <File id="77481F16-ED89-495C-B096-FD3DA565BE37/f:MainForm.cs" caret="27956" fromTop="13" />
+      <File id="77481F16-ED89-495C-B096-FD3DA565BE37/f:MainForm.cs" caret="27687" fromTop="9" />
+      <File id="77481F16-ED89-495C-B096-FD3DA565BE37/f:MainForm.cs" caret="25824" fromTop="19" />
+      <File id="77481F16-ED89-495C-B096-FD3DA565BE37/f:MainForm.cs" caret="25306" fromTop="11" />
+      <File id="77481F16-ED89-495C-B096-FD3DA565BE37/f:MainForm.cs" caret="24912" fromTop="13" />
+      <File id="77481F16-ED89-495C-B096-FD3DA565BE37/f:MainForm.cs" caret="22978" fromTop="11" />
+      <File id="77481F16-ED89-495C-B096-FD3DA565BE37/f:MainForm.cs" caret="16960" fromTop="9" />
+      <File id="77481F16-ED89-495C-B096-FD3DA565BE37/f:MainForm.cs" caret="16221" fromTop="16" />
+      <File id="77481F16-ED89-495C-B096-FD3DA565BE37/f:MainForm.cs" caret="15293" fromTop="26" />
+      <File id="77481F16-ED89-495C-B096-FD3DA565BE37/f:MainForm.cs" caret="14237" fromTop="13" />
+      <File id="77481F16-ED89-495C-B096-FD3DA565BE37/f:MainForm.cs" caret="13829" fromTop="13" />
+      <File id="77481F16-ED89-495C-B096-FD3DA565BE37/f:MainForm.cs" caret="13678" fromTop="10" />
+      <File id="77481F16-ED89-495C-B096-FD3DA565BE37/f:MainForm.cs" caret="12940" fromTop="10" />
+      <File id="77481F16-ED89-495C-B096-FD3DA565BE37/f:CarMovement.cs" caret="601" fromTop="11" />
+      <File id="77481F16-ED89-495C-B096-FD3DA565BE37/f:CarMovement.cs" caret="17352" fromTop="15" />
+      <File id="77481F16-ED89-495C-B096-FD3DA565BE37/f:CarMovement.cs" caret="17978" fromTop="20" />
+      <File id="77481F16-ED89-495C-B096-FD3DA565BE37/f:BluetoothDataTransmit.cs" caret="1091" fromTop="20" />
+      <File id="77481F16-ED89-495C-B096-FD3DA565BE37/f:route.cs" caret="13" fromTop="0" />
+      <File id="77481F16-ED89-495C-B096-FD3DA565BE37/f:route.cs" caret="222" fromTop="9" />
+      <File id="77481F16-ED89-495C-B096-FD3DA565BE37/f:route.cs" caret="344" fromTop="16" />
+      <File id="77481F16-ED89-495C-B096-FD3DA565BE37/f:route.cs" caret="479" fromTop="22" />
+      <File id="77481F16-ED89-495C-B096-FD3DA565BE37/f:route.cs" caret="638" fromTop="28" />
+      <File id="77481F16-ED89-495C-B096-FD3DA565BE37/f:MainForm.cs" caret="29186" fromTop="9" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>
